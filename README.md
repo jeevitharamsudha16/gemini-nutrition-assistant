@@ -21,7 +21,7 @@
 ### Prerequisites
 Make sure you have the following installed:
 
-- Python 3.6 or later
+- Python 3.10 or later
 - Streamlit
 - Google Generative AI
 - Pillow (PIL)

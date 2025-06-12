@@ -53,8 +53,9 @@ streamlit run app.py
 1. Upload a meal image or describe the meal in the text input.
    ![Alt Text](https://github.com/jeevitharamsudha16/gemini-nutrition-assistant/blob/main/Snip20250612_22.png)
 2. Click on the "Calculate Total Calories" button.
-3. 
-4. The app will process the image and provide the estimated calories, a health evaluation of the meal, and tips for making it healthier.
+3. The app will process the image and provide the estimated calories, a health evaluation of the meal, and tips for making it healthier.
+   ![Alt Text](https://github.com/jeevitharamsudha16/gemini-nutrition-assistant/blob/main/Snip20250612_23.png)
+
 
 ## Improvements for Gemini-Nutrition-Assistant App
 1. Save Meal History: Allow users to store and revisit their past meals.

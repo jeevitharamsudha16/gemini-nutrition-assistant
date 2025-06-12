@@ -28,22 +28,22 @@ Make sure you have the following installed:
 - dotenv
 
 ### Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/gemini-nutrition-assistant.git
    cd gemini-nutrition-assistant
    
-2. Create a virtual environment (optional but recommended):
+2. **Create a virtual environment (optional but recommended):**
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-3. Install the required dependencies:
+3. **Install the required dependencies:**
 pip install -r requirements.txt
 
-4. Set up your Google API Key for accessing Gemini. Create a .env file in the root directory and add your API key:
-GOOGLE_API_KEY=your_api_key_here
+4. **Set up your Google API Key for accessing Gemini. Create a .env file in the root directory and add your API key:**
+GOOGLE_API_KEY="your_api_key_here"
 
-5. Running the Application
+5. **Running the Application:**
 To run the app locally, use the following command:
 streamlit run app.py
 
@@ -58,11 +58,11 @@ streamlit run app.py
 
 
 ## Improvements for Gemini-Nutrition-Assistant App
-1. Save Meal History: Allow users to store and revisit their past meals.
-2. Set Custom Calorie Goals: Let users define their daily calorie intake target.
-3. Nutrient Breakdown: Show detailed breakdowns of nutrients (protein, carbs, fats).
-4. Healthier Alternatives: Suggest healthier options for high-calorie foods.
-5. Recipe Suggestions: Recommend healthy recipes based on the meal items detected.
+1. **Save Meal History:** Allow users to store and revisit their past meals.
+2. **Set Custom Calorie Goals:** Let users define their daily calorie intake target.
+3. **Nutrient Breakdown:** Show detailed breakdowns of nutrients (protein, carbs, fats).
+4. **Healthier Alternatives:** Suggest healthier options for high-calorie foods.
+5. **Recipe Suggestions:** Recommend healthy recipes based on the meal items detected.
 
 ### Contributing
 We welcome contributions to Gemini-Nutrition-Assistant! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.

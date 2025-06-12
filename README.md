@@ -50,10 +50,10 @@ streamlit run app.py
 6. Open your browser and go to the URL provided by Streamlit (usually http://localhost:8501).
 
 ### Interact with application
-1. Upload a meal image or describe the meal in the text input.
+1. **Upload a meal image or describe the meal in the text input.**
    ![Alt Text](https://github.com/jeevitharamsudha16/gemini-nutrition-assistant/blob/main/Snip20250612_22.png)
-2. Click on the "Calculate Total Calories" button.
-3. The app will process the image and provide the estimated calories, a health evaluation of the meal, and tips for making it healthier.
+2. **Click on the "Calculate Total Calories" button.**
+3. **The app will process the image and provide the estimated calories, a health evaluation of the meal, and tips for making it healthier.**
    ![Alt Text](https://github.com/jeevitharamsudha16/gemini-nutrition-assistant/blob/main/Snip20250612_23.png)
 
 

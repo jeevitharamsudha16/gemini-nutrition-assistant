@@ -1,5 +1,6 @@
 # Gemini-Nutrition-Assistant
 **Gemini-Nutrition-Assistant** is an AI-powered web application that helps users analyze the nutritional content of their meals. Using the powerful Google Gemini model, the app can estimate the calorie count of food items from images and provide health evaluations along with practical nutrition improvement tips.
+![Alt Text](URL-of-uploaded-image)
 
 ## Features
 - **Food Image Upload**: Upload a meal image in JPG, JPEG, or PNG format.
